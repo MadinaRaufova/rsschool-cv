@@ -40,5 +40,5 @@ My full name is Raufova Madina Gulyamovna. I am 20 years old. I study at Tashken
 
 ***
 ## Languages
-* **Russian** - Advan
+* **Russian** - Advanced
 * **English** - B1(Intermediate)
